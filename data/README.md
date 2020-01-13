@@ -1,6 +1,8 @@
 Gpisum_data and Site_data contain all of the necessary data to recreate this paper.
+
 ---
-Explination of Gpisum_data columns:
+
+## Explination of Gpisum_data columns:
 *depth:	the categorical depth (shallow or deep) that the macrophyte was sampled from
 *site: one of 5 site main sampling locations. Combined with depth, will give enough information to extract sample coordinates from Site_data
 *sample: 3 macrophyte specimens were ideally for each species*depth*site, `sample` is an identifier.
