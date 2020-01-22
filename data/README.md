@@ -2,13 +2,13 @@ Gpisum_data and Site_data contain all of the necessary data to recreate this pap
 
 ---
 
-## Explanation of gpisumdata.csv columns:
+## Explanation of gpisum-data.csv columns:
 * Depth: the categorical depth (shallow or deep) that the macrophyte was sampled from
 * site: one of 5 site main sampling locations.
-* sample: 3 macrophyte specimens were ideally for each species*depth*site, `sample` is an identifier.
+* sample: 3 macrophyte specimens were ideally for each species, depth, and site, `sample` is an identifier.
 * species: the species of macrophyte sampled
 * species_code: abbreviation of species
-* observer: which of the authors processed the macrophyte sample of that row. Each author processed only 1 of 3 samples per species*depth*site in order to limit observer bias
+* observer: which of the authors processed the macrophyte sample of that row. Each author processed only 1 of 3 samples per species'*'depth'*'site in order to limit observer bias
 * mac_height_cm: height of macrophtye, from base to apical point, measured in cm
 * blu_cm: the bottom length unaffected in cm
 * tla_cm: the sum of the total length affected by G. pisum on each macrophyte sample. tla_cm can be longer than the height of the macrophyte because tla_cm is a sum of affected length accross all branches of the macrophyte sample

@@ -1,0 +1,66 @@
+depth,site,sample,species,species_code,observer,mac_height_cm,blu_cm,tla_cm,alu_cm,length_sampled,mac_mass,gpisum_mass,gpisum_per_gmac,macrophyte_total_wetmass_g,gpisum_wetmass_g_per_macrophyte,notes
+deep,two,1,Ceratophyllum demersum,C.d,Audrey,84,48,31,59,20,0.469,NA,NA,,NA,Forgot to write down gpisum mass
+deep,two,2,Ceratophyllum demersum,C.d,Loic,104.5,27,96,25.5,20,0.237,0.459,1.936708861,,2.2032,
+deep,two,3,Ceratophyllum demersum,C.d,Tristan,100,31,169.5,17.5,NA,0.481,0.32,0.665280665,,NA,forgot to record length of section sampled
+deep,three,1,Ceratophyllum demersum,C.d,Loic,167,80,117,178,15,0.197,0.234,1.187817259,,1.8252,
+deep,three,2,Ceratophyllum demersum,C.d,Tristan,145,70,259.5,30.5,15,0.514,0.771,1.5,,13.3383,
+deep,five,1,Ceratophyllum demersum,C.d,Audrey,68.5,2.5,111,27,20,0.31,0.56,1.806451613,,3.108,
+deep,five,2,Ceratophyllum demersum,C.d,Loic,85,0,119,50.5,20,0.39,0.846,2.169230769,,5.0337,
+deep,one,1,Elodea canadensis,E.c,Audrey,42,42,2,77,42,NA,0,NA,,0,"1 cyano observed, apical length ok"
+deep,one,2,Elodea canadensis,E.c,Loic,28.5,0,,,,1.473,0.022,0.014935506,1.437,0.022,
+deep,one,3,Elodea canadensis,E.c,Tristan,26,26,0,,,0.688,0,0,0.688,0,
+deep,two,1,Elodea canadensis,E.c,Audrey,73,30,77,41,20,0.363,0.256,0.70523416,,0.256,
+deep,two,2,Elodea canadensis,E.c,Loic,60,60,,,,1.073,0,0,1.073,0,
+deep,two,3,Elodea canadensis,E.c,Loic,54,1.5,,,,1.979,0.018,0.009095503,1.979,0.018,
+deep,three,3,Elodea canadensis,E.c,Tristan,49.5,49.5,0,,,1.2,0,0,1.2,0,
+deep,four,1,Elodea canadensis,E.c,Audrey,22,2,NA,NA,22,1.166,0.123,0.105488851,,0.123,
+deep,four,2,Elodea canadensis,E.c,Loic,26,6,,,,0.956,0.04,0.041841004,0.956,0.04,
+deep,four,3,Elodea canadensis,E.c,Tristan,34.5,21,,,,0.855,0.022,0.025730994,0.855,0.022,
+deep,five,1,Elodea canadensis,E.c,Audrey,37,4,NA,24,37,0.626,0.008,0.012779553,,0.008,
+deep,five,2,Elodea canadensis,E.c,Loic,35.5,10,,,,3.191,0.042,0.013162018,3.191,0.042,
+deep,five,3,Elodea canadensis,E.c,Tristan,22,0,,,,1.246,0.022,0.017656501,,0.022,G.xx was sparsely distributed across entire plant
+shallow,one,1,Elodea canadensis,E.c,Loic,27.5,11,,,,0.997,0.067,0.067201605,0.997,0.067,
+shallow,one,2,Elodea canadensis,E.c,Audrey,31,6,35,25,15,0.234,0.102,0.435897436,1.0296,0.238,Same method as other plants because individual very affected
+shallow,one,3,Elodea canadensis,E.c,Tristan,24.5,0,,14,24.5,0.368,0.001,0.002717391,,0.001,
+shallow,two,1,Elodea canadensis,E.c,Loic,33,33,0,,,1.807,0,0,1.807,0,*plant was unaffected
+shallow,two,2,Elodea canadensis,E.c,Audrey,16,2,NA,NA,16,0.545,0.003,0.005504587,,0.003,
+shallow,two,3,Elodea canadensis,E.c,Tristan,24.5,24.5,0,,,1.595,0,0,1.595,0,
+shallow,three,1,Elodea canadensis,E.c,Loic,32,32,0,,,4.529,0,0,4.529,0,*plant was unaffected
+shallow,three,2,Elodea canadensis,E.c,Audrey,30,15,NA,NA,30,2.954,0.011,0.003723764,,0.011,11 snails on plant
+shallow,three,3,Elodea canadensis,E.c,Tristan,23.5,23.5,0,,,0.893,0,0,0.893,0,
+shallow,four,1,Elodea canadensis,E.c,Loic,20.5,2,,,,0.864,0.097,0.112268519,0.864,0.097,
+shallow,four,2,Elodea canadensis,E.c,Loic,26,6,,,,0.406,0.03,0.073891626,0.406,0.03,
+shallow,four,3,Elodea canadensis,E.c,Tristan,28.5,0,,,,0.404,0.066,0.163366337,0.404,0.066,
+shallow,five,1,Elodea canadensis,E.c,Audrey,10,0,NA,NA,10,1.205,0.881,0.731120332,,0.881,Roots were affected
+shallow,five,2,Elodea canadensis,E.c,Loic,17,0,,,,1.937,0.566,0.29220444,1.937,0.566,
+shallow,five,3,Elodea canadensis,E.c,Tristan,19,0,,,,1.08,0.513,0.475,1.08,0.513,
+deep,one,1,Myriophyllum spicatum,M.s,Audrey,82,25,59,14.5,20,1.242,1.405,1.131239936,,4.14475,Green filaments present
+deep,one,2,Myriophyllum spicatum,M.s,Loic,93,30,105.5,18,20,0.417,0.37,0.887290168,,1.95175,
+deep,one,3,Myriophyllum spicatum,M.s,Tristan,100,34,103.5,33.5,20,1.006,1.117,1.110337972,,5.780475,green cyano also present
+deep,two,1,Myriophyllum spicatum,M.s,Audrey,148,55,113,88,20,0.948,1.413,1.490506329,,7.98345,
+deep,two,2,Myriophyllum spicatum,M.s,Loic,175,65,143,111,20,0.434,1.333,3.071428571,,9.53095,
+deep,two,3,Myriophyllum spicatum,M.s,Tristan,193,45.5,374.5,116.5,20,1.669,3.901,2.337327741,,73.046225,
+deep,three,1,Myriophyllum spicatum,M.s,Loic,130,36,94,5,15,0.306,1.552,5.071895425,,9.725866667,
+deep,three,2,Myriophyllum spicatum,M.s,Audrey,195,70,297,172,15,0.777,1.51,1.943371943,,29.898,
+deep,three,3,Myriophyllum spicatum,M.s,Audrey,130,57,90,13.5,15,0.458,0.892,1.947598253,,5.352,
+deep,four,1,Myriophyllum spicatum,M.s,Audrey,140,27,130,78,15,0.595,0.67,1.12605042,,5.806666667,
+deep,four,2,Myriophyllum spicatum,M.s,Loic,146.5,23,351.5,185,15,0.986,2.179,2.209939148,,51.06123333,
+deep,four,3,Myriophyllum spicatum,M.s,Tristan,121.5,13,281,96.5,15,1.035,2.115,2.043478261,,39.621,
+deep,five,1,Myriophyllum spicatum,M.s,Audrey,184,30,494,89,15,0.32,0.279,0.871875,,9.1884,
+deep,five,2,Myriophyllum spicatum,M.s,Loic,167,0,177,128,15,0.456,1.128,2.473684211,,13.3104,
+deep,five,3,Myriophyllum spicatum,M.s,Tristan,233,55,303.5,149.5,15,0.568,1.111,1.955985915,,22.47923333,
+shallow,one,1,Myriophyllum spicatum,M.s,Loic,55.5,9,43,10,15,0.565,2.038,3.607079646,,5.842266667,
+shallow,one,2,Myriophyllum spicatum,M.s,Audrey,35.5,9.5,26,4,15,0.221,0.277,1.253393665,,0.480133333,
+shallow,one,3,Myriophyllum spicatum,M.s,Tristan,48,10,31,15.5,15,0.419,0.167,0.398568019,,0.345133333,
+shallow,two,1,Myriophyllum spicatum,M.s,Loic,56,14,74.5,57.5,15,0.775,0.278,0.358709677,,1.380733333,
+shallow,two,2,Myriophyllum spicatum,M.s,Audrey,45,26,23,12,15,0.477,0.06,0.125786164,,0.092,
+shallow,two,3,Myriophyllum spicatum,M.s,Tristan,50,11.5,32,15,15,0.555,0.01,0.018018018,,0.021333333,
+shallow,three,1,Myriophyllum spicatum,M.s,Loic,56,30,30,33,15,0.879,0.348,0.395904437,,0.696,
+shallow,three,2,Myriophyllum spicatum,M.s,Audrey,38,22,24,0,15,1.318,0.028,0.02124431,,0.0448,
+shallow,three,3,Myriophyllum spicatum,M.s,Tristan,43,0,35,24,15,0.495,0.282,0.56969697,,0.658,Plant had old stem with G.xx and new stem without G.xx
+shallow,four,1,Myriophyllum spicatum,M.s,Loic,60,8.5,68.5,0,15,0.641,1.32,2.059282371,,6.028,
+shallow,four,2,Myriophyllum spicatum,M.s,Audrey,37,5,30,9,15,0.269,0.433,1.609665428,,0.866,
+shallow,four,3,Myriophyllum spicatum,M.s,Tristan,65,22,30,31,15,0.573,0.216,0.376963351,,0.432,
+shallow,five,1,Myriophyllum spicatum,M.s,Audrey,47,0,89,9,15,0.502,1.729,3.444223108,,10.25873333,
+shallow,five,2,Myriophyllum spicatum,M.s,Loic,42,0,36.5,16,15,1.115,0.896,0.803587444,,2.180266667,
+shallow,five,3,Myriophyllum spicatum,M.s,Loic,38,3.5,62.5,6.5,15,1.36,4.777,3.5125,,19.90416667,"*crazy amount of cyano on the plant. Very ""watery"" though"
