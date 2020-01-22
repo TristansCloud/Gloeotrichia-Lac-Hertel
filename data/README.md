@@ -2,8 +2,8 @@ Gpisum_data and Site_data contain all of the necessary data to recreate this pap
 
 ---
 
-## Explination of Gpisum_data columns:
-* depth: the categorical depth (shallow or deep) that the macrophyte was sampled from
+## Explanation of gpisumdata.csv columns:
+* Depth: the categorical depth (shallow or deep) that the macrophyte was sampled from
 * site: one of 5 site main sampling locations.
 * sample: 3 macrophyte specimens were ideally for each species*depth*site, `sample` is an identifier.
 * species: the species of macrophyte sampled
