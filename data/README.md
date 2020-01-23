@@ -44,6 +44,6 @@ Gpisum_data and Site_data contain all of the necessary data to recreate this pap
 * leaf_cent_stem_length: the length of each leaf's central stem in cm
 * leaf_cent_stem_width: the width of each leaf's central stem in cm, measured in the middle of the leaf's central stem
 * num_sideshoots: the number of leaflets on each leaf
-* len_shoot1, 2, 3, 4, 5: the length of leaflet 1..5
-* wid_shoot1 2, 3, 4, 5: the width of each leaflet, measured in the middle of the leaflet
+* len_shoot1, 2, 3, 4, 5: the length of leaflet 1..5 in cm
+* wid_shoot1 2, 3, 4, 5: the width of each leaflet in cm, measured in the middle of the leaflet
 
