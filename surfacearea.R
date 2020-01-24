@@ -2,9 +2,9 @@ library(tidyverse)
 setwd("/Users/triskos/Desktop/331/Working folder/Gpisum Rproj/Gpisum Rproj/data/")
 
 surface_area_function<- function() {
-masses_sa<-read_csv("surface area masses.csv")
-ec_sa<-read_csv("ec surface area.csv")
-ms_sa<-read_csv("ms surface area.csv")
+masses_sa<-read_csv("all-samples-data.csv")
+ec_sa<-read_csv("ec-surface-area.csv")
+ms_sa<-read_csv("ms-surface-area.csv")
 
 msstats_sa<-ms_sa %>% 
   group_by(sample,leaf) %>% 
@@ -73,10 +73,9 @@ with(surfmass,t.test(sa_mass~species))
 tapply(surfmass$sa_mass, surfmass$species, sd)
 
 # differences in G. pisum in 2019 samples
-sa_gpisum<-read_csv("surface area masses.csv")
+sa_gpisum<-read_csv("all-samples-data.csv")
 sa_gpisum$sample<-gsub('.{1}$', '', sa_gpisum$sample)
 
 tapply(sa_gpisum$gpisum_mass, sa_gpisum$sample, mean)
 tapply(sa_gpisum$gpisum_mass, sa_gpisum$sample, sd)
 
-with(sa_gpisum,t.test(gpisum_mass~sample))
